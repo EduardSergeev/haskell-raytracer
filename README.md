@@ -3,7 +3,7 @@
 Writing the first Haskell application by walking through The Ray Tracer Challenge book.
 
 [![Build](../../workflows/Build/badge.svg)](../../actions?query=workflow%3ABuild+branch%3Amaster)
-[![Coverage Status](https://coveralls.io/repos/github/dmitryrotay/haskell-raytracer/badge.svg?branch=master)](https://coveralls.io/github/dmitryrotay/haskell-raytracer?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/EduardSergeev/haskell-raytracer/badge.svg?branch=master)](https://coveralls.io/github/EduardSergeev/haskell-raytracer?branch=master)
 
 ## Chapters 1-4
 
